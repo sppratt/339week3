@@ -1,0 +1,52 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+
+ 
+h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: midnightblue;
+    background-color: lemonchiffon;
+ }
+
+ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ nav li{
+    margin-left: 25px;
+    display: inline-block;
+    width: 100px;
+    background-color: aqua;
+    text-align: center;
+    border: 3px solid #00008b;
+    padding: 20px;
+    border-radius: 18px;
+    text-decoration: none;
+ }
+
+a:hover{
+    color: yellow;
+
+
+}
+img{
+    margin: 20px;
+    border: 50px groove papayawhip;
+    
+}
+ img:hover{
+    /* color: rosybrown; */
+    
+    box-shadow: 30px 30px 30px mistyrose;
+ }
+
+
+    
